@@ -1,5 +1,5 @@
-بانک آینده
+Ayandeh Bank
 
 [online-demo](https://bank-ayande.vercel.app/)
 
-https://github.com/user-attachments/assets/18b18a23-ffa9-4daa-bf2d-25ba91faa4a3
+![Screenshot (41)](https://github.com/user-attachments/assets/dabee27d-44ee-470f-9b3a-5b432d214671)
